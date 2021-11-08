@@ -2,11 +2,12 @@
 ## Description
 A mysql database and application backend for an e-commerce site. This project works with Express.js API and configure it to use Sequelize to interact with a MySQL database. All Images showcasing the application running in Insomnia.
 ## Demo
-![Add Product Gif](./assets/images/By_product.gif)
 ![Add command Gif](./assets/images/command_screenshot.gif)
-![Add Product Gif](./assets/images/Categories_screenshot.gif)
-![Add Product Gif](./assets/images/Tags_screenshot.gif)
-![Add Product Gif](./assets/images/Seeded_screenshot.gif)
+![Add Product Gif](./assets/images/By_product.gif)
+![Add Product Gif](./assets/images/Categories_Sceenshot.gif)
+![Add Product Gif](./assets/images/Categories_Screenshot.gif)
+![Add Tags Gif](./assets/images/Tags_screenshot.gif)
+
 ## Installation 
 * npm init
 * npm install mysql2
@@ -22,11 +23,16 @@ A mysql database and application backend for an e-commerce site. This project wo
 * Then Insomnia and GET data for each route(categories, products, or tags) as well as create, update, and delete data in those routes.
 
 ## Link
-https://watch.screencastify.com/v/TBWiV8ZUK2RkARNSFhtJ
+https://watch.screencastify.com/v/TBWiV8ZUK2RkARNSFhtJ 
+<br>
 https://watch.screencastify.com/v/Ztt3IiB4TEscXkEr7UFq
+<br>
 https://watch.screencastify.com/v/hhcwuILAzajHBoIdShv3
+<br>
 https://watch.screencastify.com/v/ciWkEZjGBKwTzK0dFI2H
+<br>
 https://watch.screencastify.com/v/vejggwH6i1YTrHC5Y4fV
+<br>
 https://watch.screencastify.com/v/v1I50Hq1BmctA1qFTteI
 
 ## Repository
