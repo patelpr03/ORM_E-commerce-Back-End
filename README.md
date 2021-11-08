@@ -4,7 +4,7 @@ A mysql database and application backend for an e-commerce site. This project wo
 ## Demo
 ![Add command Gif](./assets/images/command_screenshot.gif)
 ![Add Product Gif](./assets/images/By_product.gif)
-![Add Product Gif](./assets/images/Categories_Sceenshot.gif)
+![Add Categories Gif](./assets/images/Categories_Sceenshot.gif)
 ![Add Tags Gif](./assets/images/Tags_screenshot.gif)
 
 ## Installation 
